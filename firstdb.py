@@ -5,7 +5,7 @@ sqlite_file = 'baby_name_database.sqlite'    # name of the sqlite database file
 # Connecting to the database file
 conn = sqlite3.connect(sqlite_file)
 c = conn.cursor()
-
+# example of creating a database table using the execute statement
 c.execute('''CREATE TABLE baby_name
              (state TEXT NOT NULL,
                gender TEXT NOT NULL,
