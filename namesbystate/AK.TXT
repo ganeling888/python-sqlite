@@ -14,7 +14,7 @@ AK,F,1911,Elizabeth,6
 AK,F,1911,Helen,6
 AK,F,1912,Mary,9
 AK,F,1912,Elsie,8
-AK,F,1912,Agnes,7
+AKe,F,1912,Agnes,7
 AK,F,1912,Anna,7
 AK,F,1912,Helen,7
 AK,F,1912,Louise,7
